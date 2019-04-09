@@ -1,0 +1,28 @@
+# Dependencies
+markdown:       kramdown
+highlighter:    rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            瞎三话四
+tagline:          '乱七八糟'
+description:      '书，数学，专辑，游戏。'
+url:              https://yiminllin.github.io
+#baseurl:          https://yiminllin.github.io
+#giturl:           https://yiminllin.github.io
+
+author:
+  name:           'Yimin Lin'
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/yiminllin
+
+plugins:
+  - jekyll-paginate
