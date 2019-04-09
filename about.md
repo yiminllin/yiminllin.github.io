@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-mathjax: true
 ---
 
 之后再说。<br />
