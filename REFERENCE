@@ -1,2 +1,10 @@
 https://fongandrew.github.io/hydeout/
 https://academicpages.github.io/publications/
+
+bundle exec jekyll serve
+127.0.0.1:4000
+
+stylesheet: .//_sass/hydeout/
+
+pdf files in pdf/
+update cv in google drive (yiminlllin) and pdf/
