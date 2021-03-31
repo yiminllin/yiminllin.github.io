@@ -11,8 +11,8 @@ sidebar_sort_order: 4
 Entropy Stable Modal Discontinuous Galerkin Schemes and Wall Boundary Conditions for the Compressible Navier-Stokes
 Equations, July 2021, USNCCM16, online, **Upcoming**
 
-Various aspects of entropy stable discontinuous Galerkin methods, Mar 2021, Rice CAAM seminar, online, **Upcoming**
-
+[Various aspects of entropy stable discontinuous Galerkin methods](pdf/CAAM_seminar_Mar_2021_presentation.pdf), Mar
+2021, Rice CAAM seminar, online
 
 
 ### Thesis Defense
