@@ -8,8 +8,8 @@ sidebar_sort_order: 4
 
 ### Talks
 
-Entropy Stable Modal Discontinuous Galerkin Schemes and Wall Boundary Conditions for the Compressible Navier-Stokes
-Equations, July 2021, USNCCM16, online, **Upcoming**
+[Entropy stable schemes for the compressible Navier-Stokes equations: boundary conditions and positivity preserving
+schemes](pdf/USNCCM_Jul_2021_presentation.pdf), July 2021, USNCCM16, online
 
 Various aspects of entropy stable discontinuous Galerkin methods, Mar
 2021, Rice CAAM seminar, online
