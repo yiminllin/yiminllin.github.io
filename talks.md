@@ -8,6 +8,9 @@ sidebar_sort_order: 4
 
 ### Talks
 
+[A positivity preserving strategy for entropy stable discontinuous Galerkin discretizations of the compressible Euler
+and Navier-Stokes equations](), Nov 2021, SIAM TXLA, South Padre Island, TX, **upcoming**
+
 [Developing Spectral Element Methods for Molten Salt Reactors](pdf/SASSy_Yimin.pdf), Aug 2021, ANL SASSy, online
 
 [Entropy Stable Schemes for the Compressible Navier-Stokes Equations: Boundary Conditions and Positivity Preserving

@@ -8,11 +8,15 @@ sidebar_sort_order: 3
 
 A complete list of publications is available on my [Google scholar](https://scholar.google.com/citations?hl=en&user=yCrSttgAAAAJ) page. 
 
+### In preparation
+**Y Lin**, I Tomas, J Chan, [A positivity preserving strategy for entropy stable discontinuous Galerkin discretizations of the compressible Euler and Navier-Stokes equations]()
+
 ### Submitted
-J Chan, **Y Lin**, T Warburton, [Entropy stable modal discontinuous Galerkin schemes and wall boundary conditions for
-the compressible Navier-Stokes equations](https://arxiv.org/pdf/2011.11089.pdf)
 
 ### Published
+J Chan, **Y Lin**, T Warburton, [Entropy stable modal discontinuous Galerkin schemes and wall boundary conditions for
+the compressible Navier-Stokes equations](https://www.sciencedirect.com/science/article/pii/S0021999121006185)
+
 E Huang, **Y Lin**, M Ebert, DW Ham, C Zhang, RK Sachs, [Synergy theory for murine Harderian gland tumours after
 irradiation by mixtures of high-energy ionized atomic nuclei](https://link.springer.com/article/10.1007/s00411-018-00774-x), Radiation and environmental biophysics
 
