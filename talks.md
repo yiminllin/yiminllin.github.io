@@ -9,7 +9,7 @@ sidebar_sort_order: 4
 ### Talks
 
 [A Positivity Preserving Strategy for Entropy Stable Discontinuous Galerkin Discretizations of the Compressible Euler
-and Navier-Stokes equations](pdf/SIAM_TXLA_NOV_2021.pdf), Nov 2021, SIAM TXLA, South Padre Island, TX
+and Navier-Stokes equations](pdf/SIAM_TXLA_Nov_2021.pdf), Nov 2021, SIAM TXLA, South Padre Island, TX
 
 [Developing Spectral Element Methods for Molten Salt Reactors and a Positivity Preserving Strategy for Entropy Stable Discontinuous Galerkin Method of the Compressible Flow](), Oct 2021, Rice CAAM seminar, Rice University, TX
 
