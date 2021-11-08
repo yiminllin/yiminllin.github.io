@@ -20,6 +20,9 @@ html {
   @media (min-width: $large-breakpoint) {
     font-size: $large-font-size;
   }
+  @media (min-width: $exlarge-breakpoint) {
+    font-size: $exlarge-font-size;
+  }
 }
 
 body {
