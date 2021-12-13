@@ -6,6 +6,9 @@ sidebar_link: true
 sidebar_sort_order: 6 
 ---
 
+**ESDG-PosLimit** [**link**](https://github.com/yiminllin/ESDG-PosLimit)  
+Research code for the paper titled: A positivity preserving strategy for entropy stable discontinuous Galerkin discretizations of the compressible Euler and Navier-Stokes equations.
+
 **ESDG-CNS** [**link**](https://github.com/yiminllin/ESDG-CNS)  
 Research code for the paper titled: Entropy stable modal discontinuous Galerkin schemes and wall boundary conditions for the compressible
 Navier-Stokes equations.
