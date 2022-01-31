@@ -6,6 +6,11 @@ sidebar_link: true
 sidebar_sort_order: 4
 ---
 
+### Upcoming
+
+[A Positivity Preserving Strategy for Entropy Stable Discontinuous Galerkin Discretizations of the Compressible Euler
+and Navier-Stokes equations](), Mar 2022, AMS spring sectional meeting, West Lafayette, Indiana
+
 ### Talks
 
 [A Positivity Preserving Strategy for Entropy Stable Discontinuous Galerkin Discretizations of the Compressible Euler
