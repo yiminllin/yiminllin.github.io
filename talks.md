@@ -8,10 +8,14 @@ sidebar_sort_order: 4
 
 ### Upcoming
 
-[A Positivity Preserving Strategy for Entropy Stable Discontinuous Galerkin Discretizations of the Compressible Euler
-and Navier-Stokes equations](), Jul 2022, 2nd North American High Order Method Conference (NAHOMCon), San Diego, California
-
 ### Talks
+
+[A Positivity Preserving Strategy for Entropy Stable Discontinuous Galerkin Discretizations of the Compressible Euler
+and Navier-Stokes equations](pdf/NAHOMCon_ESDG_PosLimit.pdf), Jul 2022, 2nd North American High Order Method Conference (NAHOMCon), San Diego, California
+
+[Spectral Element for Coupled NS-PNP equations](pdf/NAHOMCon_NSPNP.pdf), Jul 2022, 2nd North American High Order Method Conference (NAHOMCon), San Diego, California
+
+
 
 [A Positivity Preserving Strategy for Entropy Stable Discontinuous Galerkin Discretizations of the Compressible Euler
 and Navier-Stokes equations](pdf/AMS_Spring_Central_Mar_2021.pdf), Mar 2022, AMS spring sectional meeting, West Lafayette, Indiana
