@@ -16,5 +16,5 @@ Navier-Stokes equations.
 **ESDG-Fourier** [**link**](https://github.com/yiminllin/ESDG-Fourier)  
 Research code for the master thesis titled: Entropy stable discontinuous Galerkin-Fourier methods.
 
-**drake/mpm** [**link**](https://github.com/yiminllin/drake/tree/mpm-Aug/multibody/fem/mpm-dev)
+**drake/mpm** [**link**](https://github.com/yiminllin/drake/tree/mpm-Aug/multibody/fem/mpm-dev)  
 MPM prototype developed at Toyota Research Insitutite.
