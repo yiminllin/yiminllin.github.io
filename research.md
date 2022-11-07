@@ -10,11 +10,11 @@ sidebar_sort_order: 2
 
 We developed a positivity limiting strategy for entropy stable discontinuous Galerkin discretizations of the compressible Euler and Navier-Stokes equations. The key ingredient in the limiting procedure is the low order positivity-preserving discretization based on **graph viscosity terms**. The proposed limiting strategy is both positivity preserving and discretely entropy stable for the compressible Euler and Navier-Stokes equations.
 
-***Figure*** Density plot of the Double Mach Reflection test case. Polynomial degree 3, 218750 uniform quadrilateral elements. Only positivity limiting with shock capturing is applied to the ESDG discretization.    
+***Figure*** Density plot of the Double Mach Reflection test case for the compressible Euler equation. Polynomial degree 3, 218750 uniform quadrilateral elements. Only positivity limiting with shock capturing is applied to the ESDG discretization.    
 
 <img src="image/dmr.png" width="800" style="display: block; margin: 0 auto;">
 
-***Figure*** Schlieren visualization of the Daru-Tenaud test case for the compressible Navier-Stokes equations. Only positivity limiting (without shock capturing) is applied to the ESDG discretization.    
+***Figure*** Schlieren visualization of the Daru-Tenaud test case for the compressible Navier-Stokes equations. $Re = 1000$, only positivity limiting (without shock capturing) is applied to the ESDG discretization.    
 
 <img src="image/daru.png" width="800" style="display: block; margin: 0 auto;">
 
