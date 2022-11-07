@@ -8,7 +8,7 @@ sidebar_sort_order: 2
 
 ### A positivity preserving strategy for entropy stable discontinuous Galerkin discretizations
 
-We developed a positivity limiting strategy for entropy stable discontinuous Galerkin discretizations of the compressible Euler and Navier-Stokes equations based on **convex limiting**. The key ingredient in the limiting procedure is the low order positivity-preserving discretization based on **graph viscosity terms**. The proposed limiting strategy is both positivity preserving and discretely entropy stable for the compressible Euler and Navier-Stokes equations.
+We developed a positivity limiting strategy for entropy stable discontinuous Galerkin discretizations of the compressible Euler and Navier-Stokes equations. The key ingredient in the limiting procedure is the low order positivity-preserving discretization based on **graph viscosity terms**. The proposed limiting strategy is both positivity preserving and discretely entropy stable for the compressible Euler and Navier-Stokes equations.
 
 ***Figure*** Density plot of the Double Mach Reflection test case. Polynomial degree 3, 218750 uniform quadrilateral elements. Only elementwise positivity limiting is applied to the ESDG discretization.    
 
