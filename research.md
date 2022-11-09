@@ -16,7 +16,7 @@ We developed a positivity limiting strategy for entropy stable discontinuous Gal
 
 <img src="image/daru.png" width="900" style="display: block; margin: 0 auto;">
 
-***Figure*** Schlieren visualization of the Daru-Tenaud test case for the compressible Navier-Stokes equations. $Re = 1000$, only positivity limiting (without shock capturing) is applied to the ESDG discretization.    
+***Figure*** Schlieren visualization of the Daru-Tenaud test case for the compressible Navier-Stokes equations. Re = 1000, only positivity limiting (without shock capturing) is applied to the ESDG discretization.    
 
 ### Entropy Stable Discontinuous Galerkin-Fourier methods
 
